@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle atom-properties-collector",
+        "command": "atom-properties-collector:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "atom-properties-collector",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "atom-properties-collector:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

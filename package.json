@@ -1,0 +1,18 @@
+{
+  "name": "atom-properties-collector",
+  "main": "./lib/atom-properties-collector",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "atom-properties-collector:toggle"
+  },
+  "repository": "https://github.com/ghooost/atom-properties-collector.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
