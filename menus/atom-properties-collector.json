@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "atom-properties-collector",
+          "label": "Properties collector",
           "submenu": [
             {
               "label": "Toggle",
