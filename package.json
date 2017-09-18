@@ -1,7 +1,7 @@
 {
   "name": "atom-properties-collector",
   "main": "./lib/atom-properties-collector",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Object properties collector",
   "keywords": [
   ],

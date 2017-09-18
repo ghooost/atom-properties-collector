@@ -1,8 +1,8 @@
 # atom-properties-collector package
 
-##Object properties collector.
+## Object properties collector.
 
-###Example:
+### Example:
 Toggle the plugin ON (ctrl-alt-c), type myObject and press Enter.
 It will scan text at ActiveTextEditor for myObject.XXX
 and then insert myObject definition at cursor position.
