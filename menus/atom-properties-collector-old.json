@@ -1,14 +1,18 @@
 {
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Collect selected object",
+        "command": "atom-properties-collector:toggle"
+      }
+    ]
+  },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
         {
-<<<<<<< HEAD
-          "label": "Properties collector",
-=======
           "label": "Object properties collector",
->>>>>>> 461142c7b2d4dbc329267a9d417bd677f0031e12
           "submenu": [
             {
               "label": "Toggle",
