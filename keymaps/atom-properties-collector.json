@@ -1,5 +1,9 @@
 {
   "atom-workspace": {
     "ctrl-alt-o": "atom-properties-collector:toggle"
+  },
+  ".data-properties-collector-input":{
+    "escape":"atom-properties-collector:cancel",
+    "enter":"atom-properties-collector:apply"
   }
 }
