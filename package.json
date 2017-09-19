@@ -1,10 +1,9 @@
 {
   "name": "atom-properties-collector",
   "main": "./lib/atom-properties-collector",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Object properties collector",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "atom-properties-collector:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
